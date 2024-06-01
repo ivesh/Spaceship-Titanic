@@ -1,2 +1,2 @@
 # Spaceship-Titanic
-Classification Problem  
+Kaggle Competition  
